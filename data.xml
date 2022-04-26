@@ -1,0 +1,57 @@
+<mywebstore>
+    <created_at>2022-04-24 22:44:46</created_at>
+    <products>
+        <product>
+            <id>226179</id>
+            <mpn>4933478891</mpn>
+            <name>
+                <![CDATA[ Milwaukee BLHX-0X - Κρουστικό Σκαπτικό Μπαταρίας 18V με SDS Plus (Solo) Σκέτο σώμα ]]>
+            </name>
+            <link>
+                <![CDATA[ https://tripanaki.gr/shop/baterry-tools/pistoleta-mpatarias/milwaukee-blhx-0x-%ce%ba%cf%81%ce%bf%cf%85%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%cf%83%ce%ba%ce%b1%cf%80%cf%84%ce%b9%ce%ba%cf%8c-%ce%bc%cf%80%ce%b1%cf%84%ce%b1%cf%81%ce%af%ce%b1%cf%82-18v-%ce%bc%ce%b5-sds/ ]]>
+            </link>
+            <image>
+                <![CDATA[ https://tripanaki.gr/wp-content/uploads/2022/04/4933478891-1000x1000-1.jpg ]]>
+            </image>
+            <category>
+                <![CDATA[ Εργαλεία μπαταρίας &gt; Πιστολέτα μπαταρίας ]]>
+            </category>
+            <price_with_vat>
+                <![CDATA[ 352.45 ]]>
+            </price_with_vat>
+            <vat>24</vat>
+            <manufacturer>
+                <![CDATA[ MILWAUKEE ]]>
+            </manufacturer>
+            <instock>Y</instock>
+            <availability>Παράδοση σε 4 - 10 ημέρες</availability>
+            <weight>6000</weight>
+        </product>
+        <product>
+            <id>226176</id>
+            <mpn>4933478893</mpn>
+            <name>
+                <![CDATA[ Milwaukee BLHX-501X - Κρουστικό Σκαπτικό Μπαταρίας 18V με SDS Plus μαζί με ταχυφορτιστή, μία μπαταρία 5.0Ah(1x5.0Ah) και βαλίτσα μεταφοράς. ]]>
+            </name>
+            <link>
+                <![CDATA[ https://tripanaki.gr/shop/baterry-tools/pistoleta-mpatarias/milwaukee-blhx-501x-%ce%ba%cf%81%ce%bf%cf%85%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%cf%83%ce%ba%ce%b1%cf%80%cf%84%ce%b9%ce%ba%cf%8c-%ce%bc%cf%80%ce%b1%cf%84%ce%b1%cf%81%ce%af%ce%b1%cf%82-18v-%ce%bc%ce%b5-sd/ ]]>
+            </link>
+            <image>
+                <![CDATA[ https://tripanaki.gr/wp-content/uploads/2022/04/4933478892.jpg ]]>
+            </image>
+            <category>
+                <![CDATA[ Εργαλεία μπαταρίας &gt; Πιστολέτα μπαταρίας ]]>
+            </category>
+            <price_with_vat>
+                <![CDATA[ 520 ]]>
+            </price_with_vat>
+            <vat>24</vat>
+            <manufacturer>
+                <![CDATA[ MILWAUKEE ]]>
+            </manufacturer>
+            <instock>Y</instock>
+            <availability>Παράδοση σε 4 - 10 ημέρες</availability>
+            <weight>6000</weight>
+        </product>
+    </products>
+</mywebstore>
