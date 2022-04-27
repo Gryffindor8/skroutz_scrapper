@@ -148,12 +148,10 @@ def Scrap():
 
 
 def xml():
-    f = open('compete.csv')
     df = pd.read_csv('compete.csv')
-    xml_ = ('\n'.join(df.apply(convert_row, axis=1)))
-    xml_ = str(("<webstore>", xml_, "</webstore>"))
     with open("compete.xml", "w") as f:
         f.write("<webstore>" + '\n'.join(df.apply(convert_row, axis=1)) + "</webstore>")
+    os.remove("compete.csv")
 
 
 def convert_row(row):
